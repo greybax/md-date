@@ -71,7 +71,6 @@ Markdown string.
 * [md-article][md-article] - extract data from your markdown article
     * [md-content][md-content] - get content from markdown article
     * [md-desc][md-desc] - get description from markdown article
-    * [md-image][md-image] - get image from markdown article
     * [md-title][md-title] - get title from markdown article
 
 ## License
@@ -93,5 +92,4 @@ MIT © [Aleksandr Filatov](https://alfilatov.com)
 [md-article]: https://github.com/greybax/md-article
 [md-content]: https://github.com/greybax/md-content
 [md-desc]: https://github.com/greybax/md-desc
-[md-image]: https://github.com/greybax/md-image
 [md-title]: https://github.com/greybax/md-title

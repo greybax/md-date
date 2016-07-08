@@ -1,6 +1,6 @@
 {
   "name": "md-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get date from markdown article",
   "main": "index.es5.js",
   "scripts": {
@@ -46,7 +46,7 @@
   "dependencies": {
     "moment": "^2.14.0",
     "remark": "^5.0.1",
-    "remark-html": "^4.0.0",
+    "remark-html": "^5.0.0",
     "remove-markdown": "^0.1.0"
   }
 }
