@@ -41,7 +41,7 @@
     "coveralls": "*",
     "isparta": "*",
     "mocha": "*",
-    "rimraf": "*"
+    "rimraf": ">=2.6.3"
   },
   "dependencies": {
     "moment": "^2.14.0",
